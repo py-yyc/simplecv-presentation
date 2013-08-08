@@ -8,4 +8,6 @@ data:
 
 ---
 
-# (Finding funny presentation images is hard!) #
+
+
+(Finding funny presentation images is hard!)
