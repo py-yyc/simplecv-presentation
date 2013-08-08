@@ -4,3 +4,6 @@ _site/
 *.swo
 *.swp
 .sass-cache
+
+media/
+src/
