@@ -8,6 +8,4 @@ data:
 
 ---
 
-
-
 (Finding funny presentation images is hard!)

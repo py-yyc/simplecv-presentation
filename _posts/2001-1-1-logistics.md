@@ -8,6 +8,4 @@ data:
 
 ---
 
-
-
 Demos are on master branch. Slides are on gh-pages (and hence on pyyyc.org).
