@@ -35,6 +35,6 @@ nosetests.xml
 .pydevproject
 
 .idea/
-media/
+media/animated.gif
 
 .DS_Store
